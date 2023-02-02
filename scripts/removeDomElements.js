@@ -1,6 +1,6 @@
 
 if(window.location.href != "https://www.youtube.com/"){
-	console.log("Not on Youtube");
+	console.log("https://www.youtube.com/");
 }else{
 
 const menuShorts = document.querySelector('[aria-label="Shorts"]');
